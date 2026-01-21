@@ -1,0 +1,17 @@
+tax_year=2026
+filing_status=MFJ
+income_wages=0
+income_int=0
+income_div_qualified=6000
+income_div=7000
+income_inv_other=5000
+income_other=5000
+cg_short_term=240000
+cg_long_term=400000
+deduct_medical=30000
+deduct_property_tax=11000
+deduct_charity=2500
+deduct_margin_int=40000
+deduct_mortgage_rate=0.03375
+deduct_mortgage_int=38500
+deduct_mortgage_orig_year=2020

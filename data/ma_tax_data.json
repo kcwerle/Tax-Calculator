@@ -1,0 +1,58 @@
+{
+    "2023": {
+        "ordinary_rate": 0.05,
+        "short_term_rate": 0.085,
+        "long_term_rate": 0.05,
+        "surtax_threshold": 1000000,
+        "surtax": 0.04,
+        "max_int_div_adj": 2000,
+        "standard_exemption": {
+            "SNG": 4400,
+            "MFJ": 8800,
+            "MFS": 4400,
+            "HOH": 6800
+        }
+    },
+    "2024": {
+        "ordinary_rate": 0.05,
+        "short_term_rate": 0.085,
+        "long_term_rate": 0.05,
+        "surtax_threshold": 1053750,
+        "surtax": 0.04,
+        "max_int_div_adj": 2000,
+        "standard_exemption": {
+            "SNG": 4400,
+            "MFJ": 8800,
+            "MFS": 4400,
+            "HOH": 6800
+        }
+    },
+    "2025": {
+        "ordinary_rate": 0.05,
+        "short_term_rate": 0.085,
+        "long_term_rate": 0.05,
+        "surtax_threshold": 1083150,
+        "surtax": 0.04,
+        "max_int_div_adj": 2000,
+        "standard_exemption": {
+            "SNG": 4400,
+            "MFJ": 8800,
+            "MFS": 4400,
+            "HOH": 6800
+        }
+    },
+    "2026": {
+        "ordinary_rate": 0.05,
+        "short_term_rate": 0.085,
+        "long_term_rate": 0.05,
+        "surtax_threshold": 1083150,
+        "surtax": 0.04,
+        "max_int_div_adj": 2000,
+        "standard_exemption": {
+            "SNG": 4400,
+            "MFJ": 8800,
+            "MFS": 4400,
+            "HOH": 6800
+        }
+    }
+}
